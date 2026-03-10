@@ -6,7 +6,7 @@ Este projeto apresenta um **dashboard analítico de performance de vendas**, des
 
 A solução foi criada para a empresa fictícia **Zentronix Electronics**, permitindo analisar o desempenho comercial de lojas e gerentes regionais ao longo do tempo por meio de indicadores estratégicos e visualizações interativas.
 
-🔎 [Projeto Interativo](https://app.powerbi.com/view?r=eyJrIjoiMWI3YTFhYzgtYTIwOS00ZDY5LWI0M2YtNGRiNzBhOGFlZGNjIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
+🔎 [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiMWI3YTFhYzgtYTIwOS00ZDY5LWI0M2YtNGRiNzBhOGFlZGNjIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
 
 ---
 
