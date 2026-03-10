@@ -6,8 +6,7 @@ Este projeto apresenta um **dashboard analítico de performance de vendas**, des
 
 A solução foi criada para a empresa fictícia **Zentronix Electronics**, permitindo analisar o desempenho comercial de lojas e gerentes regionais ao longo do tempo por meio de indicadores estratégicos e visualizações interativas.
 
-🔎 **Acesse o dashboard interativo:**  
-[Projeto Interativo](https://app.powerbi.com/view?r=eyJrIjoiMWI3YTFhYzgtYTIwOS00ZDY5LWI0M2YtNGRiNzBhOGFlZGNjIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
+🔎 [Projeto Interativo](https://app.powerbi.com/view?r=eyJrIjoiMWI3YTFhYzgtYTIwOS00ZDY5LWI0M2YtNGRiNzBhOGFlZGNjIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
 
 ---
 
@@ -186,4 +185,36 @@ Essa estrutura garante **performance nas consultas e escalabilidade do modelo an
 
 # 📸 Preview do Dashboard
 
-![Dashboard Preview](images/performance-de-vendas-zentronix-electronics.png)
+![Dashboard Preview](images/faturamento-zentronix-electronics.png)
+
+## Documentação das Medidas
+
+Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a [Documentação das Medidas](docs/medidas-documentacao.md).
+
+# 👨‍💻 Autor
+
+Projeto desenvolvido como parte do meu portfólio profissional em **Business Intelligence e Data Analytics**, destacando habilidades avançadas e aplicáveis a diversos cenários analíticos:
+
+- Desenvolvimento de **dashboards executivos e painéis estratégicos**, focados em insights acionáveis e tomada de decisão baseada em dados  
+- **Modelagem dimensional e relacional**, aplicando corretamente **cardinalidade, granularidade** e hierarquias entre tabelas para garantir consistência e integridade dos dados  
+- **Transformação de dados com Power Query e Linguagem M**, criando pipelines eficientes, automatizados e auditáveis  
+- Criação de **KPIs estratégicos e métricas customizadas em DAX**, para análise de performance e comparações confiáveis  
+- **Integração de múltiplas fontes de dados** (Excel, SQL, APIs, arquivos planos), padronizando e validando informações críticas  
+- **Data storytelling e visualizações interativas**, com cores, hierarquias, filtros e destaque de insights, para facilitar interpretação e engajamento do usuário  
+- **Análises estatísticas e preditivas**, usando Python, R, regressões, teste de hipóteses, séries temporais e técnicas de Machine Learning para identificação de tendências e padrões  
+- **Automatização e otimização de processos analíticos**, incluindo ETL, scripts e compressão de dados, garantindo performance e escalabilidade dos relatórios  
+- **Documentação detalhada de medidas, tabelas, modelos e processos**, permitindo reprodutibilidade, transparência e governança dos dados  
+- Aplicação de **boas práticas de engenharia de dados**, integrando análise, estatística, IA e visualização para soluções analíticas completas e confiáveis  
+- Domínio completo de **Power BI, DAX, Power Query, Python e R**, com foco em performance, qualidade e entrega de insights estratégicos
+
+---
+
+<div align="center">
+  
+**Portfólio de Business Intelligence & Data Analytics**  
+
+<img src="images/phoenix-information-technology-solutions.png" width="540">
+
+| [LinkedIn](https://www.linkedin.com/in/rogério-clynton-ribeiro/) | [Portfólio](https://clyntonboss.github.io/) |
+
+</div>
