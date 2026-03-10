@@ -1,4 +1,4 @@
-# 📊 Performance de Vendas — Zentronix Electronics
+# 📊 Projeto Faturamento — Zentronix Electronics
 
 ## 📌 Visão Geral
 
