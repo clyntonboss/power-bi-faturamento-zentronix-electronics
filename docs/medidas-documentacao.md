@@ -1,4 +1,4 @@
-# Documentação de Medidas - Projeto Zentronix Electronics
+# Documentação das Medidas: Projeto Faturamento — Zentronix Electronics
 
 Este documento descreve as medidas criadas no modelo semântico do Power
 BI relacionadas à tabela **fPedidos**.
